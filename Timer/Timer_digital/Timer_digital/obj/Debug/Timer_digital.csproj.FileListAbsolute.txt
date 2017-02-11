@@ -1,0 +1,12 @@
+C:\Users\Tilak\Desktop\Timer\Timer_digital\Timer_digital\bin\Debug\Timer_digital.exe.config
+C:\Users\Tilak\Desktop\Timer\Timer_digital\Timer_digital\bin\Debug\Timer_digital.exe
+C:\Users\Tilak\Desktop\Timer\Timer_digital\Timer_digital\bin\Debug\Timer_digital.pdb
+C:\Users\Tilak\Desktop\Timer\Timer_digital\Timer_digital\obj\Debug\Timer_digital.csprojResolveAssemblyReference.cache
+C:\Users\Tilak\Desktop\Timer\Timer_digital\Timer_digital\obj\Debug\Timer_digital.Form1.resources
+C:\Users\Tilak\Desktop\Timer\Timer_digital\Timer_digital\obj\Debug\Timer_digital.Properties.Resources.resources
+C:\Users\Tilak\Desktop\Timer\Timer_digital\Timer_digital\obj\Debug\Timer_digital.csproj.GenerateResource.Cache
+C:\Users\Tilak\Desktop\Timer\Timer_digital\Timer_digital\obj\Debug\Timer_digital.exe
+C:\Users\Tilak\Desktop\Timer\Timer_digital\Timer_digital\obj\Debug\Timer_digital.pdb
+C:\Users\Tilak\Documents\Mani sir\Projects\Timer\Timer_digital\Timer_digital\bin\Debug\Timer_digital.exe.config
+C:\Users\Tilak\Documents\Mani sir\Projects\Timer\Timer_digital\Timer_digital\obj\Debug\Timer_digital.exe
+C:\Users\Tilak\Documents\Mani sir\Projects\Timer\Timer_digital\Timer_digital\obj\Debug\Timer_digital.pdb
